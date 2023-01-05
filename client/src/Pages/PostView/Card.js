@@ -1,7 +1,7 @@
 import moment from 'moment';
 
 export default function Card({ post }) {
-console.log(post.date);
+// console.log(post.date);
     return (
         <>
             <section className="card">
