@@ -2,6 +2,7 @@
 // const API_BASE_PATH = 'https://instaclone-app-22.herokuapp.com'
 const API_BASE_PATH = 'https://instaclone-backend-hdsc.onrender.com'
 
+
 const CONSTANTS = {
     CDN_HOST: '',
     ASSETS_BASE_PATH: '/images',
